@@ -59,3 +59,10 @@ function addToList(){
 
 }
 
+//Refresh page
+window.setTimeout(function(){
+    location.reload();
+
+}, 30000);
+
+
